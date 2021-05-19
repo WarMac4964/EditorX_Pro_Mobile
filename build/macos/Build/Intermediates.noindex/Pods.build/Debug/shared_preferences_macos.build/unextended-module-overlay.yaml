@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/anuragtyagi/Documents/Projects/Flutter/editorx_pro/build/macos/Build/Products/Debug/shared_preferences_macos/shared_preferences_macos.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/anuragtyagi/Documents/Projects/Flutter/editorx_pro/build/macos/Build/Intermediates.noindex/Pods.build/Debug/shared_preferences_macos.build/unextended-module.modulemap",
+    }]
+  }]
+}
