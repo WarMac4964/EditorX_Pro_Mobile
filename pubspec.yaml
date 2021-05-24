@@ -24,9 +24,14 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.5
+  image_picker: ^0.7.5+2
+  flutter_svg: ^0.22.0
+  photofilters: ^2.0.2
   provider: ^5.0.0
-
-
+  image_cropper: ^1.4.0
+  path_provider: ^2.0.1
+  image_save: ^4.0.1
+  
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -51,6 +56,12 @@ flutter:
     - assets/fonts/
     - assets/sun.png
     - assets/moon.png
+    - assets/effects.svg
+    - assets/slider.svg
+    - assets/crop.svg
+    - assets/export.svg
+    - assets/text.svg
+    - assets/imp_ill.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

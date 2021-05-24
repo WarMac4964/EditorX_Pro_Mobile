@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "cd3f9743e9010581980ef9368f50d8b6"
-build_time: [1620788061, 553578000]
-inputs:
-  "/Users/anuragtyagi/Documents/Projects/Flutter/editorx_pro/macos/Runner/MainFlutterWindow.swift": [1615530768, 0]
-  "/Users/anuragtyagi/Documents/Projects/Flutter/editorx_pro/macos/Runner/AppDelegate.swift": [1615530768, 0]
-  "/Users/anuragtyagi/Documents/Projects/Flutter/editorx_pro/macos/Flutter/GeneratedPluginRegistrant.swift": [1620788049, 827469603]
