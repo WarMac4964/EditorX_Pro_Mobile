@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/WarMac4964/EditorX_Pro">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EditorX Pro</h3>
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![EditorX Pro][project-screenshot]]()
+<img src="readme/screenshot.png" alt="Logo" width="200" >
 
 EditorX Pro is a cross-platform photo editing app for mobile
 
