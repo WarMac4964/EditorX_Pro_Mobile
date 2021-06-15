@@ -1,5 +1,3 @@
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -7,13 +5,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/WarMac4964/EditorX_Pro">
-    <img src="readme/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme/5.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EditorX Pro</h3>
@@ -28,8 +24,6 @@
     <a href="https://github.com/WarMac4964/EditorX_Pro/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -50,33 +44,35 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <img src="readme/screenshot.png" alt="Logo" width="200" >
 
 EditorX Pro is a cross-platform photo editing app for mobile
 
-
 ### Built With
 
-* [Flutter](https://getbootstrap.com)
-* [Dart](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
 ### Features
 
+<img src="readme/feature.gif" width="350">
+
+<br>
 - Apply Effects on image.
-- Crop the image in diffrent aspect ratios. 
+
+- Crop the image in diffrent aspect ratios.
+
 - One tap Import/Export.
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
-To start with the project, you can simply download the [apk]() here or you can follow along the instructions to 
+To start with the project, you can simply download the [apk]() here or you can follow along the instructions to
 download and run the whole project in emulator.
 
 1. Clone the repo
@@ -96,8 +92,8 @@ download and run the whole project in emulator.
    flutter run
    ```
 
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - Addition of a Light panel for manipulating Exposure, Contrast, Highlights, Shadows, Blacks and Whites.
@@ -108,15 +104,13 @@ download and run the whole project in emulator.
 
 See the [open issues](https://github.com/WarMac4964/EditorX_Pro/issues) for a list of proposed features (and known issues).
 
-
 <!-- CONTACT -->
+
 ## Contact
 
 Anurag Tyagi - [@capttyg](https://www.instagram.com/capttyg/) - anurag.tyagi4964@gmail.com
 
 Project Link: [https://github.com/WarMac4964/EditorX_Pro](https://github.com/WarMac4964/EditorX_Pro)
-
-
 
 [contributors-shield]: https://img.shields.io/github/contributors/WarMac4964/EditorX_Pro.svg?style=for-the-badge
 [contributors-url]: https://github.com/WarMac4964/EditorX_Pro/graphs/contributors

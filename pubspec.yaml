@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.0.5
-  image_picker: ^0.7.5+2
+  image_picker: ^0.8.0+3
   flutter_svg: ^0.22.0
   photofilters: ^2.0.2
   provider: ^5.0.0
@@ -62,6 +62,8 @@ flutter:
     - assets/export.svg
     - assets/text.svg
     - assets/imp_ill.svg
+    - assets/logo.png
+    - assets/logo_bg.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

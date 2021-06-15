@@ -22,6 +22,8 @@ class BottomNavBar extends StatelessWidget {
     final File picture = Provider.of<Edited>(context).image;
     var image = imageLib.decodeImage(picture.readAsBytesSync());
     String fileName = basename(picture.path);
+
+    final Color textColor = Provider.of<ColorMode>(context).textColor;
     void effects() async {
       Map pictureFilter = await Navigator.push(
         context,
@@ -110,7 +112,10 @@ class BottomNavBar extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
           IconButton(
-            icon: SvgPicture.asset('assets/crop.svg'),
+            icon: SvgPicture.asset(
+              'assets/crop.svg',
+              color: textColor,
+            ),
             onPressed: () async {
               final croppedImage = await cropImg(picture);
               if (croppedImage != null) {
@@ -119,28 +124,36 @@ class BottomNavBar extends StatelessWidget {
               }
             },
             iconSize: 30,
-            color: Colors.black87,
           ),
           IconButton(
-            icon: SvgPicture.asset('assets/slider.svg'),
+            icon: SvgPicture.asset(
+              'assets/slider.svg',
+              color: textColor,
+            ),
             onPressed: () {},
             iconSize: 30,
-            color: Colors.black87,
           ),
           IconButton(
-            icon: SvgPicture.asset('assets/effects.svg'),
+            icon: SvgPicture.asset(
+              'assets/effects.svg',
+              color: textColor,
+            ),
             onPressed: effects,
-            color: Colors.black87,
             iconSize: 30,
           ),
           IconButton(
-            icon: SvgPicture.asset('assets/text.svg'),
+            icon: SvgPicture.asset(
+              'assets/text.svg',
+              color: textColor,
+            ),
             onPressed: () {},
             iconSize: 30,
-            color: Colors.black87,
           ),
           IconButton(
-            icon: SvgPicture.asset('assets/export.svg'),
+            icon: SvgPicture.asset(
+              'assets/export.svg',
+              color: textColor,
+            ),
             onPressed: () async {
               bool success = await ImageSave.saveImage(
                 picture.readAsBytesSync(),
@@ -161,7 +174,6 @@ class BottomNavBar extends StatelessWidget {
               }
             },
             iconSize: 30,
-            color: Colors.black87,
           ),
         ],
       ),

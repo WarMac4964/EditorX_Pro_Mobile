@@ -1,14 +1,14 @@
 # This is a generated file; do not edit or check into version control.
-flutter_plugin_android_lifecycle=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.1/
+flutter_plugin_android_lifecycle=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.2/
 image_cropper=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.4.0/
-image_picker=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.7.5+2/
+image_picker=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.0+3/
 image_picker_for_web=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.0.0/
 image_save=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/image_save-4.0.1/
-path_provider=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/
+path_provider=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/
 path_provider_linux=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
 path_provider_macos=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0/
 path_provider_windows=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1/
-shared_preferences=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.5/
+shared_preferences=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.6/
 shared_preferences_linux=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0/
 shared_preferences_macos=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0/
 shared_preferences_web=/Applications/Development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0/
